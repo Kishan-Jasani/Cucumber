@@ -1,0 +1,6 @@
+Feature:  Description of the feature
+Scenario: Description about Scenario
+Given:    
+And:
+Then: 
+Scenario Outline: Run same scenario with different multiple data

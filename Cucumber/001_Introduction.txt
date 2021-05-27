@@ -1,0 +1,32 @@
+BDD - Behavioral Driven Development
+------------------------------------
+---> It is a development style to aims to bridge the gap between business analysit and developer, 
+	 Manual QA and Automation testers(who write BDD) or manual QA and Developer.
+---> BDD seems like plain text, but they have their own syntex based on certain tools.
+---> BDD tools: Cucumber, Jbehave, Nbehave, specFlow
+
+Gherkin language:-
+------------------
+---> Gherkin is a business readable, easily understandable by anyone since it is plain text. used in BDD tools.
+---> They have some spaces and indentation to define structure.
+
+
+Gherkins syntex:-
+-----------------
+Feature
+Background
+scenario
+given
+when
+then
+andbut
+scenario outline
+examples
+scenario templates
+
+
+
+BDD vs traditional :-
+-----------------------
+BDD is plain text. Traditional is full of code.
+BDD is easy to understand. Traditional is hard to understand.
